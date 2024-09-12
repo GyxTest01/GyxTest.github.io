@@ -1,7 +1,7 @@
 ---
 home: true
 heroInmage: /菠萝.jpg
-actionText: 点我快速进入文档
+actionText: 快速进入文档 
 actionLink: /about/Markdown教程 
 
 
@@ -14,5 +14,3 @@ features:
 - title: 未来
   details: 吸引更多的朋友参与到开发中来，继续强大功能。
 ---
-
-
